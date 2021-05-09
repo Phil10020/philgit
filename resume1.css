@@ -1,0 +1,50 @@
+.photo1 img {
+    float:left ;
+    margin-right:10 px ;
+    width:100 px ;
+    height: 100 px ;
+    
+}
+.photo1 p {
+    width: 200 px ;
+    height:50 px ;
+    line-height: 200%;
+    overflow:auto;
+ 
+
+}
+.content{
+    width:1200px;margin-left:auto;margin-right:auto;
+    }
+    .box{
+		width: 200px;
+			margin: 10px;
+			padding: 10px;
+			background-color: white;
+			display: inline-block;
+			vertical-align: top;
+			text-align: center;
+			height: 50px;
+			line-height: 30px;
+	}
+hr{
+        background-color:#008000;
+        height:5px ;
+    }
+h1 {
+    text-align:center ;
+    }
+body {
+    width:80% ;
+    margin-left:auto ;
+    margin-right:auto ;
+    }
+p{ 
+    font-size:18px ;
+    background-color:#DCDCDC ;
+    line-height:200%;
+    }
+
+li {
+        font-size:20px ;
+    }
